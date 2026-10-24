@@ -40,9 +40,8 @@ Insights: Evaluated monthly variances and achievement percentages across product
 
  Visuals Used: Interactive geographic maps and state-level funnel charts.
    
-    Insights: Pinpointed high-performing commercial hubs like Indore, Mumbai, Delhi, Pune, and Allahabad. State-level order count analysis revealed that Madhya Pradesh and Maharashtra record the highest order volumes
+Insights: Pinpointed high-performing commercial hubs like Indore, Mumbai, Delhi, Pune, and Allahabad. State-level order count analysis revealed that Madhya Pradesh and Maharashtra record the highest order volumes
    
-
 4. Temporal Sales Trends & SeasonalityVisuals
  
    visual Used: Line charts tracking monthly revenue.
