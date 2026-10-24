@@ -26,19 +26,28 @@ Analytical Measures: Built core measures to track total order counts, city-speci
 📈 Dashboard Visualizations & Key Insights
 
 1. Sales Performance & Target Achievement
-Visuals Used: Clustered column charts and a detailed Sales Performance Matrix.  
+
+Visuals Used: Clustered column charts and a detailed Sales Performance Matrix.
+
 Insights: Evaluated monthly variances and achievement percentages across product categories (Clothing, Electronics, and Furniture), highlighting consistent over-performance against monthly targets.   
 
 2. Product Profitability Analysis
    Visuals Used: Donut charts, treemaps, and profit-versus-quantity scatter plots.
-  Insights: Identified that sub-categories such as Printers, Phones, and Book Cases generate the highest profit margins, making them vital drivers of overall business profitability that require priority in inventory planning.
+
+     Insights: Identified that sub-categories such as Printers, Phones, and Book Cases generate the highest profit margins, making them vital drivers of overall business profitability that require priority in inventory planning.
    
 3. Geographic & Regional Sales Patterns
-    Visuals Used: Interactive geographic maps and state-level funnel charts.
-    Insights: Pinpointed high-performing commercial hubs like Indore, Mumbai, Delhi, Pune, and Allahabad. State-level order count analysis revealed that Madhya Pradesh and Maharashtra record the highest order volumes.
+
+ Visuals Used: Interactive geographic maps and state-level funnel charts.
+   
+    Insights: Pinpointed high-performing commercial hubs like Indore, Mumbai, Delhi, Pune, and Allahabad. State-level order count analysis revealed that Madhya Pradesh and Maharashtra record the highest order volumes
+   
+
 4. Temporal Sales Trends & SeasonalityVisuals
-   Used: Line charts tracking monthly revenue.
+ 
+   visual Used: Line charts tracking monthly revenue.
+
    Insights: Monitored revenue fluctuations from May 2018 through March 2019 to capture seasonal variations in customer demand, aiding future forecasting and resource allocation.
 
-   💡 Business Impact
+💡 Business Impact
    The dashboard successfully equips management with a centralized tool to track financial goals, identify profitable product segments, optimize regional marketing strategies, and anticipate seasonal demand shifts.   
